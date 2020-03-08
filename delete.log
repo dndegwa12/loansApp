@@ -1,0 +1,6 @@
+2018-07-28 22:55:59,089 - app - INFO - Logger config OK!
+2018-07-28 22:55:59,237 - amqp - DEBUG - Start from server, version: 0.9, properties: {'information': 'Licensed under the MPL.  See http://www.rabbitmq.com/', 'product': 'RabbitMQ', 'copyright': 'Copyright (C) 2007-2018 Pivotal Software, Inc.', 'capabilities': {'exchange_exchange_bindings': True, 'connection.blocked': True, 'authentication_failure_close': True, 'direct_reply_to': True, 'basic.nack': True, 'per_consumer_qos': True, 'consumer_priorities': True, 'consumer_cancel_notify': True, 'publisher_confirms': True}, 'cluster_name': 'rabbit@ken-VirtualBox', 'platform': 'Erlang/OTP 19.3', 'version': '3.7.5'}, mechanisms: ['AMQPLAIN', 'PLAIN'], locales: [u'en_US']
+2018-07-28 22:55:59,238 - amqp - DEBUG - using channel_id: 1
+2018-07-28 22:55:59,239 - amqp - DEBUG - Channel open
+2018-07-28 22:55:59,253 - __main__ - INFO - Processing loans aggregates finished? False
+2018-07-28 22:55:59,254 - __main__ - INFO - Processing loans aggregates result? None
